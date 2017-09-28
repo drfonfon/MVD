@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lovecraft monsters</string>
+    <string name="error_text">An error occurred while loading the data. Pull down to repeat the request.</string>
+</resources>
